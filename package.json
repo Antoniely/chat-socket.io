@@ -1,0 +1,19 @@
+{
+  "name": "socketIO-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Antoniely Robles",
+  "private": true,
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.18.4",
+    "socket.io": "^2.1.1"
+  }
+}
